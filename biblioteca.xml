@@ -15,7 +15,7 @@
     <foto>
     <img src="summer.webp"/>
   </foto>
-    <titulo>Summer en su salsa</titulo>
+    <titulo>La mirada de Summer</titulo>
     <autor fechaNacimiento="28/03/1936">Mario Vargas Llosa</autor>
     <fechaPublicacion año="1973"/>
   </libro>
@@ -23,7 +23,7 @@
     <foto>
     <img src="miki.webp"/>
     </foto>
-    <titulo>Miki y su indiferencia</titulo>
+    <titulo>Un Miki pensativo</titulo>
     <autor fechaNacimiento="28/03/1936">Mario Vargas Llosa</autor>
     <fechaPublicacion año="1969"/>
   </libro>
