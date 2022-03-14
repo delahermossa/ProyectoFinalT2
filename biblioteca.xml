@@ -1,18 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblioteca>
+<?xml-stylesheet  href='biblioteca.css'?>
+
+<biblioteca xmlns="http://www.w3.org/1999/xhtml">
+  <texto>viewport muy estrecho</texto>
   <libro>
-    <titulo>La vida está en otra parte</titulo>
+    <foto>
+    <img src="senda.webp"/>
+    </foto>
+    <titulo>La siesta de senda</titulo>
     <autor>Milan Kundera</autor>
     <fechaPublicacion/>
   </libro>
   <libro>
-    <titulo>Pantaleón y las visitadoras</titulo>
+    <foto>
+    <img src="summer.webp"/>
+  </foto>
+    <titulo>La mirada de Summer</titulo>
     <autor fechaNacimiento="28/03/1936">Mario Vargas Llosa</autor>
     <fechaPublicacion año="1973"/>
   </libro>
   <libro>
-    <titulo>Conversación en la catedral</titulo>
+    <foto>
+    <img src="miki.webp"/>
+    </foto>
+    <titulo>Un Miki pensativo</titulo>
     <autor fechaNacimiento="28/03/1936">Mario Vargas Llosa</autor>
     <fechaPublicacion año="1969"/>
   </libro>
+  <button type="button">invertir</button>
 </biblioteca>
