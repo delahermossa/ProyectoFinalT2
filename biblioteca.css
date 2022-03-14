@@ -26,12 +26,12 @@ img{
 titulo:hover{
 	font-size: 40px;
 }
-/*button:hover{
-	biblioteca{
+biblioteca:hover{
+
 	display: flex;
 	flex-direction: column-reverse;
 }
-}*/
+
 img:hover{
 	filter: grayscale(100%);
 	filter: drop-shadow(10px 10px 10px black);
