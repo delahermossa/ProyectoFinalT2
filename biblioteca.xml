@@ -7,7 +7,7 @@
     <foto>
     <img src="senda.webp"/>
     </foto>
-    <titulo>La siesta de senda</titulo>
+    <titulo>Las siesta de sendas</titulo>
     <autor>Milan Kundera</autor>
     <fechaPublicacion/>
   </libro>
@@ -15,7 +15,7 @@
     <foto>
     <img src="summer.webp"/>
   </foto>
-    <titulo>La mirada de Summer</titulo>
+    <titulo>Summer en su salsa</titulo>
     <autor fechaNacimiento="28/03/1936">Mario Vargas Llosa</autor>
     <fechaPublicacion año="1973"/>
   </libro>
@@ -23,7 +23,7 @@
     <foto>
     <img src="miki.webp"/>
     </foto>
-    <titulo>Un Miki pensativo</titulo>
+    <titulo>Miki y su indiferencia</titulo>
     <autor fechaNacimiento="28/03/1936">Mario Vargas Llosa</autor>
     <fechaPublicacion año="1969"/>
   </libro>
