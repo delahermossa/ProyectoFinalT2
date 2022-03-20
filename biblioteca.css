@@ -1,38 +1,45 @@
+
 p{
-color:blue !important;
-background-color:yellow;
+    color:blue !important;
+    background-color:yellow;
+    width: 100%;
 }
-
-libro {
-	display: block;
-	width: 300px;
+div{
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    width: 300px;
 }
-texto{
-	display: none;
+body{
+  
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
-@media only screen and (max-width: 300px){
-	libro{
-		display: none;
-	}
-	texto{
-		display: block;
-	}
+h3{
+    display:none;
 }
-img{
-	width: 300px;
-	height: 300px;
-	object-fit: cover;
+@media only screen and (max-width:550px) {
+    p{
+        display:none;
+    }
+    h2{
+        display:none;
+    }
+    h3{
+        display:block;
+    }
+    img{
+        display:none;
+    }
 }
-titulo:hover{
-	font-size: 40px;
+h2:hover{
+    font-size: 180%;
 }
-biblioteca:hover{
-
-	display: flex;
-	flex-direction: column-reverse;
-}
-
 img:hover{
-	filter: grayscale(100%);
-	filter: drop-shadow(10px 10px 10px black);
+    filter: grayscale(1);
+}
+img:active{
+    border-top: 9px solid #555;
+    border-right: 9px solid #555;
 }
