@@ -3,12 +3,18 @@
  
  <xsl:template match="/">
 	<html><head><link rel="stylesheet" type="text/css" href="biblioteca.css"/></head><body>
+			<h4 class="viewport">Viewport muy estrecho</h4>
+	
+		
+	
       <xsl:apply-templates />
+      
+      
     </body></html>
   </xsl:template>
   
   <xsl:template match="libro">
-    <div>
+    <div class="principal">
     	<img>
 						<xsl:attribute name="src">
 							<xsl:value-of select="foto"/>
