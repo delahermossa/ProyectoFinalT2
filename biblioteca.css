@@ -7,7 +7,7 @@ p{
 div{
     padding: 5px;
     display: flex;
-    flex-direction: column-reverse;
+    flex-direction: row-reverse;
     width: 300px;
 }
 body{
