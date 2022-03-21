@@ -39,7 +39,7 @@ h2:hover{
 img:hover{
     filter: grayscale(1);
 }
-img:active{
+/*img:active{
     border-top: 9px solid #555;
     border-right: 9px solid #555;
-}
+}*/
