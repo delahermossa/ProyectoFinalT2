@@ -6,7 +6,6 @@ p{
 }
 div{
     padding: 5px;
-    margin: 5px;
     display: flex;
     flex-direction: row-reverse;
     width: 300px;
