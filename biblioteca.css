@@ -7,7 +7,7 @@ p{
 div{
     padding: 5px;
     display: flex;
-    flex-direction: column;
+    flex-direction: column-reverse;
     width: 300px;
 }
 body{
@@ -39,7 +39,7 @@ h2:hover{
 img:hover{
     filter: grayscale(1);
 }
-/*img:active{
+img:active{
     border-top: 9px solid #555;
     border-right: 9px solid #555;
-}*/
+}
